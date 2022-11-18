@@ -13,3 +13,4 @@ puts ""
 print length("a")
 puts ""
 print length("")
+puts ""

@@ -20,3 +20,4 @@ puts ""
 print delete_occurrences([13, true, 13, nil], 1)
 puts ""
 print delete_occurrences([true, true, true], 3)
+puts

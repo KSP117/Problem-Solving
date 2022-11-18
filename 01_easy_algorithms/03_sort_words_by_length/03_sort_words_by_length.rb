@@ -5,7 +5,8 @@ def sort_by_length(words)
 end
 
 print sort_by_length("Hello my friend")
-puts " "
+puts
 print sort_by_length("Have a wonderful day")
-puts " "
+puts
 print sort_by_length("My son loves pineapples")
+puts

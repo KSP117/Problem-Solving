@@ -12,3 +12,4 @@ puts ""
 print move("bye")
 puts ""
 print move("welcome")
+puts

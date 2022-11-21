@@ -13,11 +13,4 @@ def delete_occurrences (arr, num)
     
   end
   new_arr
-end  
-
-print delete_occurrences([1, 1, 1, 1], 2)
-puts ""
-print delete_occurrences([13, true, 13, nil], 1)
-puts ""
-print delete_occurrences([true, true, true], 3)
-puts
+end

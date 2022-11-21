@@ -15,13 +15,3 @@ def count_lone_ones(x)
   end
   arr1.count(1)  
 end
-
-
-print count_lone_ones(101)
-puts
-print count_lone_ones(1191)
-puts
-print count_lone_ones(1111)
-puts
-print count_lone_ones(462)
-puts

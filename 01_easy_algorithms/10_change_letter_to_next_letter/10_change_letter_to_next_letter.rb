@@ -6,10 +6,3 @@ def move (x)
   ((1..26).zip('a'..'z')).each { |x| alpha_table[x[0]] = x[1] }
   letter_num.collect { |x| alpha_table[x] }.join("")
 end
-
-print move("hello")
-puts ""
-print move("bye")
-puts ""
-print move("welcome")
-puts

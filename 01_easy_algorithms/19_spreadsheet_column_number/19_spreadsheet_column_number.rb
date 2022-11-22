@@ -3,5 +3,3 @@ def spread (x)
   (x - 1).times { name.succ! }
   name  
 end
-
-print spread (29)

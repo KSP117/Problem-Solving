@@ -6,8 +6,3 @@ def emotify (x)
   x == "sad" ? x = ":(" : x = x
   x == "mad" ? x = ":P" : x = x}.join(" ")
 end
-
-puts emotify("Make me smile")
-puts emotify("Make me grin") 
-puts emotify("Make me sad")
-puts emotify("Make me mad")
